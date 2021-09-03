@@ -11,15 +11,23 @@ var quesList = [
     question: "What is my favourite color? ",
     answer: "Pink",
   }),
+  (quesFour = {
+    question: "Which is my favourite superhero? ",
+    answer: "Batman",
+  }),
+  (quesfive = {
+    question: "What is my hobby? ",
+    answer: "Gardening",
+  }),
 ];
 var highScores = [
   {
     name: "Ruby",
-    score: 3,
+    score: 5,
   },
   {
     name: "Diya",
-    score: 2,
+    score: 4,
   },
 ];
 
